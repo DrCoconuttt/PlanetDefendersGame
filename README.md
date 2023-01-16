@@ -11,10 +11,10 @@ ADD GIF
 3. Any astoried that collied with a barrier is destroied, click to move the barrier.
 
 Astoried types:
- White: The standard astoried, just moves towards the planet
- Green: Starts slow and gradually speeds up
- Purple: Rotates around the planet while approaching
- Red: When destroyed all astorieds on screen will also be destroyed
+- White: The standard astoried, just moves towards the planet
+- Green: Starts slow and gradually speeds up
+- Purple: Rotates around the planet while approaching
+- Red: When destroyed all astorieds on screen will also be destroyed
 
 ###### How to Run GUI version
 
