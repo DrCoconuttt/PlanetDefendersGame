@@ -22,7 +22,7 @@ Asteroid types:
  - Tested with Java 17.0.1.4, which can be downloaded here: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
  - Tested with JavaFX 19, which can be downloaded here: https://gluonhq.com/products/javafx/ 
 2. Download PlanetDefendersGameGUI.jar file found in releases or directly downloaded here:
-https://github.com/PlanetDefendersGame/pdef/releases/download/1.0/planetDefendersGameGUI.jar
+https://github.com/DrCoconuttt/PlanetDefendersGame/releases/download/1.0/PlanetDefendersGameGUI.jar
 3. Open the command prompt in the directory that contains PlanetDefendersGameGUI.jar
 4. Enter: Java --module-path **/path/to/javafx-sdk-15.0.1/lib** --add-modules javafx.controls,javafx.fxml -jar PlanetDefendersGameGUI.jar
 Replace the part in bold with the path to the JavaFX.
@@ -41,9 +41,9 @@ Replace the part in bold with the path to the JavaFX.
  - Tested with Java 17.0.1.4, which can be downloaded here: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
  - Tested with JavaFX 19, which can be downloaded here: https://gluonhq.com/products/javafx/ 
 2. Download PlanetDefendersGameText.jar file found in releases or directly downloaded here:
-https://github.com/PlanetDefendersGame/pdef/releases/download/1.0/planetDefendersGameText.jar
-3. Open the command prompt in the directory that contains PlanetDefendersGameTexg.jar
-4. Enter: Java --module-path **/path/to/javafx-sdk-15.0.1/lib** --add-modules javafx.controls,javafx.fxml -jar PlanetDefendersGameText.jar
+https://github.com/DrCoconuttt/PlanetDefendersGame/releases/download/1.0/PlanetDefendersGameText.jar
+4. Open the command prompt in the directory that contains PlanetDefendersGameTexg.jar
+5. Enter: Java --module-path **/path/to/javafx-sdk-15.0.1/lib** --add-modules javafx.controls,javafx.fxml -jar PlanetDefendersGameText.jar
 Replace the part in bold with the path to the JavaFX.
 
 *Richard Harder, Peter Bignold, Aiden Taylor, Alex Tran, and Nick Zhao*
