@@ -46,4 +46,4 @@ Replace the part in bold with the path to the JavaFX
 4. Enter: Java --module-path **/path/to/javafx-sdk-15.0.1/lib** --add-modules javafx.controls,javafx.fxml -jar PlanetDefendersGameText.jar
 Replace the part in bold with the path to the JavaFX
 
-* Peter Bignold, Richard Harder, Aiden Taylor, Alex Tran, and Nick Zhao *
+*Peter Bignold, Richard Harder, Aiden Taylor, Alex Tran, and Nick Zhao*
