@@ -4,7 +4,7 @@ Planet Defenders is a 2D arcade-styled defense game, created using Java and Java
 
 ![](https://github.com/DrCoconuttt/PlanetDefendersGame/blob/main/Planet%20Defenders%20Demo.gif)
 
-###### Game Instructions for GUI Version.
+## Game Instructions for GUI Version.
 
 1. Defend the planet and Increase your score by destroying asteroids. The goal is to survive as long as possible.
 2. If a asteroid hits the planet, you will get hit and lose 1 of 3 lives.
@@ -16,7 +16,7 @@ Asteroid types:
 - Purple: Rotates around the planet while approaching.
 - Red: Rare and very fast. When destroyed, all asteroids on screen will also be destroyed.
 
-###### How to Run GUI version
+## How to Run GUI version
 
 1. Install Java and JavaFX
  - Tested with Java 17.0.1.4, which can be downloaded here: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
