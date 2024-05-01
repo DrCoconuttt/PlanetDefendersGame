@@ -1,6 +1,6 @@
 # Planet Defenders
 
-Planet Defenders is a 2D arcade-styled defense game, created using JavaFX. The player must defend their home planet from incoming asteroids. 
+Planet Defenders is a 2D arcade-styled defense game, created using Java and JavaFX. The player must defend their home planet from incoming asteroids. 
 
 ![](https://github.com/DrCoconuttt/PlanetDefendersGame/blob/main/Planet%20Defenders%20Demo.gif)
 
