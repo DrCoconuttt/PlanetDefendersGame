@@ -19,8 +19,8 @@ Asteroid types:
 ## How to Run GUI version
 
 1. Install Java and JavaFX
- - Tested with Java 17.0.1.4, which can be downloaded here: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
- - Tested with JavaFX 19 SDK, which can be downloaded here: https://gluonhq.com/products/javafx/ 
+     - Tested with Java 17.0.1.4, which can be downloaded here: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+     - Tested with JavaFX 19 SDK, which can be downloaded here: https://gluonhq.com/products/javafx/ 
 2. Download PlanetDefendersGameGUI.jar file found in releases or directly downloaded here:
 https://github.com/DrCoconuttt/PlanetDefendersGame/releases/download/1.0/PlanetDefendersGameGUI.jar
 3. Open the command prompt in the directory that contains PlanetDefendersGameGUI.jar
